@@ -1,5 +1,5 @@
-Rohan.Name: Rohan Jha\n
-Rohan.Education: MIT WPU BTech\n
-Rohan.Location: Pune\n
+Rohan.Name: Rohan Jha
+Rohan.Education: MIT WPU BTech
+Rohan.Location: Pune
 Rohan.Interests: Football, Coding, Wars, Geopolitics.
 Rohan.LastUpdate : 10 August 2022...
